@@ -11,7 +11,7 @@
 </p>
 
 ## 📋 O Projeto
-O GoRestaurant é uma aplicação de gerencimento de cardápio para restaurantes, permitindo cadastrar novos pratos, editá-los, deletá-los e alterar sua disponibilidade.
+GoRestaurante é uma aplicação de gestão de menus de restaurantes que permite registar, editar, eliminar e alterar a sua disponibilidade.
 
 ## 🧠 Desafio
 > Essa será uma aplicação já funcional onde o seu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
@@ -28,5 +28,4 @@ Nesse desafio pude praticar muito sobre Typescript e a configuração do seu amb
   <img src="./.github/responsive.gif" alt="Preview do projeto responsivo">
   <blockquote>Projeto responsivo</blockquote>
 
-  A versão responsiva ficou uma gracinha 🥰
 </p>
