@@ -28,5 +28,4 @@ Nesse desafio pude praticar muito sobre Typescript e a configuração do seu amb
   <img src="./.github/responsive.gif" alt="Preview do projeto responsivo">
   <blockquote>Projeto responsivo</blockquote>
 
-  A versão responsiva ficou uma gracinha 🥰
 </p>
